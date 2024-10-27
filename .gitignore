@@ -1,0 +1,22 @@
+# Ignore everything
+*
+
+# But descend into directories
+!*/
+
+# unignore
+!.gitignore
+!*.py
+!*.ipynb
+!*.md
+!*.png
+!*.xml
+!*.csv
+!*.txt
+
+# utilities
+!util
+
+# Ignore
+*.ipynb_checkpoints*
+*.aux.xml
