@@ -2,11 +2,11 @@
 This folder contains exercises for TU Wien course 231.028 "Methods and Models in Transport and Settlement Planning".
 
 ### folder structure
-📂 TUW_231028
+📂 TUW_231028sur
 - 📄 README.md
 - 📄 .gitignore
 - 📄 exercise.ipynb: for students less familiar with Python
-- 📄 exercise_expert.ipynb: for students already good with Python
+- 📄 exercise_empty.ipynb: for students already good with Python
 - 📄 homework.ipynb: a small homework
 - 📂 util
   - 📄 haversine.py: used to calculate haversine distance between two coordinates
@@ -15,6 +15,8 @@ This folder contains exercises for TU Wien course 231.028 "Methods and Models in
   - 📂 GPS
     - 📄 GPS_trip1.csv
     - 📄 GPS_trip2.csv
+  - 📂 Survey_data
+    - 📄 survey)data.csv
   - 📂 GTFS
     - 📄 agency.txt
     - 📄 calendar.txt
@@ -26,5 +28,5 @@ Note: the data folder is stored externally at this [link](https://tuwienacat-my.
 ### how to use
 It is recommended to run the scripts on Google Colab:
 * Exercise: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bz247/TUW_231028/blob/main/exercise.ipynb)
-* Exercise (expert mode): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bz247/TUW_231028/blob/main/exercise_expert.ipynb)
+* Exercise (empty): [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bz247/TUW_231028/blob/main/exercise_empty.ipynb)
 * Homework: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bz247/TUW_231028/blob/main/homework.ipynb)

@@ -20,3 +20,4 @@
 # Ignore
 *.ipynb_checkpoints*
 *.aux.xml
+data
